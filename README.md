@@ -31,7 +31,6 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="OpenCV" width="40" height="40"/> 
     <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
     <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" alt="Keras" width="40" height="40"/> 
     <img src="https://img.icons8.com/?size=96&id=lOqoeP2Zy02f&format=png" alt="Google Colab" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="NVIDIA" width="40" height="40"/> 
