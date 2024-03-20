@@ -3,12 +3,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/muhammad-usama-2ba170197" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad-usama-2ba170197?logo=linkedin&style=for-the-badge" alt="muhammad-usama-2ba170197" /></a> </p>
 
-- 🌱 I’m currently working on **cutting-edge machine learning projects and exploring new AI technologies.**
+- 🌱 I’m currently working on [Fiverr.com as Freelance Machine learning Engineer](https://www.fiverr.com/usama_mlguy)
 
-- 👯 I’m looking to collaborate on **projects related to machine learning, deep learning, and AI applications.**
+- 👯 I graduated from Namal University Mianwali in 2023, specializing in machine learning. My research project on cellular traffic prediction using federated learning not only enhanced prediction accuracy but also pioneered privacy-preserving techniques, ensuring the security of user data in modern telecommunications networks.
+  
+- 🔭 I successfully completed the rigorous Advance AI and DNN Bootcamp at NUST, immersing myself in cutting-edge topics such as deep learning, Python, and machine learning. Through intensive training, I honed my skills in advanced AI models using TensorFlow and PyTorch, while also delving into crucial areas like bias identification and mitigation, and project planning. This experience broadened my expertise and prepared me for tackling complex challenges in the field of artificial intelligence.
 
-- 💬 Ask me about **anything related to machine learning, AI, and data science!**
-
+- 💬 Curious about machine learning, AI, data science, or computer vision? I'm your go-to resource! I'm well-versed in RAG models, tweaking LLMS, transfer learning, and integrating AI techniques to solve daily life problems. Need help with algorithm optimization or tackling NLP challenges? Just ask!
 - 📫 How to reach me: **musama2019@namal.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,9 +24,15 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="pandas" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="OpenCV" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-ar21.svg" alt="Google Colab" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="NVIDIA" width="40" height="40"/> 
 </p>
