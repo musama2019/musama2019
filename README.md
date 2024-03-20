@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Muhammad Usama</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer - Harnessing AI to Solve Real-World Challenges and Shape a Brighter Future</h3>
 
 <p align="left"> <a href="https://www.linkedin.com/in/muhammad-usama-2ba170197" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad-usama-2ba170197?logo=linkedin&style=for-the-badge" alt="muhammad-usama-2ba170197" /></a> </p>
 
-- 🌱 I’m currently working on [Fiverr.com as Freelance Machine learning Engineer](https://www.fiverr.com/usama_mlguy)
+- 🌱 I’m currently working on [Fiverr as Freelance Machine learning Engineer](https://www.fiverr.com/usama_mlguy)
 
 - 👯 I graduated from Namal University Mianwali in 2023, specializing in machine learning. My research project on cellular traffic prediction using federated learning not only enhanced prediction accuracy but also pioneered privacy-preserving techniques, ensuring the security of user data in modern telecommunications networks.
   
